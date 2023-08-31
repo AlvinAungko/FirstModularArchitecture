@@ -1,0 +1,6 @@
+framework module Pods_SampleModularArchitecture {
+  umbrella header "Pods-SampleModularArchitecture-umbrella.h"
+
+  export *
+  module * { export * }
+}

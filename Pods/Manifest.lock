@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (5.7.1)
+  - Networking (0.1.0):
+    - Alamofire
+
+DEPENDENCIES:
+  - Networking (from `DevPods/Networking`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+
+EXTERNAL SOURCES:
+  Networking:
+    :path: DevPods/Networking
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  Networking: 07b2e397c8fc4b6a69091f285903b51798b15750
+
+PODFILE CHECKSUM: 73f87eac7b0247f8c8dc1d09960ed26ca2845708
+
+COCOAPODS: 1.12.0
